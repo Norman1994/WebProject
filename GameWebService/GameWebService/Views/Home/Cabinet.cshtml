@@ -1,0 +1,9 @@
+﻿@using System.Security.Claims
+@using GameWebService.DAL.Models
+
+    <div>Email: @User.FindFirst(x => x.Type == "email").Value</div>
+        <div>Логин: @User.FindFirst(x => x.Type == "login").Value</div>
+        <div>Фамилия: @User.FindFirst(x => x.Type == "surname").Value</div>
+        <div>Имя: @User.FindFirst(x => x.Type == "name").Value</div>
+        <div>Отчество: @User.FindFirst(x => x.Type == "middlename").Value</div>
+        <div>Номер телефона: @User.FindFirst(x => x.Type == "phone").Value</div>

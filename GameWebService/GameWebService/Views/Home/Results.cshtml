@@ -1,0 +1,27 @@
+﻿@model IEnumerable<GameWebService.DAL.Models.Result>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Результаты</title>
+</head>
+<body>
+    <h3>Результаты</h3>
+    <table>
+        <tr>
+            <td>Логин юзера</td>
+            <td>Очки</td>
+            <td>Время прохождения</td>
+            <td></td>
+        </tr>
+        @foreach (var result in Model)
+            {
+            <tr>
+                <td>@result.UserId</td>
+                <td>@result.Score</td>
+                <td>@result.Time</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

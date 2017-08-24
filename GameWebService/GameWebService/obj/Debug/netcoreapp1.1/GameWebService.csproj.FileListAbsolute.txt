@@ -1,0 +1,60 @@
+c:\users\администратор\documents\visual studio 2017\Projects\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.deps.json
+c:\users\администратор\documents\visual studio 2017\Projects\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.runtimeconfig.json
+c:\users\администратор\documents\visual studio 2017\Projects\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.runtimeconfig.dev.json
+c:\users\администратор\documents\visual studio 2017\Projects\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.dll
+c:\users\администратор\documents\visual studio 2017\Projects\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.pdb
+c:\users\администратор\documents\visual studio 2017\Projects\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2017\Projects\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.AssemblyInfo.cs
+c:\users\администратор\documents\visual studio 2017\Projects\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.dll
+c:\users\администратор\documents\visual studio 2017\Projects\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.pdb
+D:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.deps.json
+D:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.runtimeconfig.json
+D:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.runtimeconfig.dev.json
+D:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.dll
+D:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.pdb
+D:\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.csprojResolveAssemblyReference.cache
+D:\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.AssemblyInfo.cs
+D:\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.dll
+D:\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.pdb
+H:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.deps.json
+H:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.runtimeconfig.json
+H:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.runtimeconfig.dev.json
+H:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.dll
+H:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.pdb
+H:\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.csprojResolveAssemblyReference.cache
+H:\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.AssemblyInfo.cs
+H:\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.dll
+H:\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.pdb
+C:\Users\dima_kazin\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.deps.json
+C:\Users\dima_kazin\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.runtimeconfig.json
+C:\Users\dima_kazin\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.runtimeconfig.dev.json
+C:\Users\dima_kazin\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.dll
+C:\Users\dima_kazin\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.pdb
+C:\Users\dima_kazin\Desktop\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.csprojResolveAssemblyReference.cache
+C:\Users\dima_kazin\Desktop\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.AssemblyInfo.cs
+C:\Users\dima_kazin\Desktop\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.dll
+C:\Users\dima_kazin\Desktop\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.pdb
+C:\Users\dima_kazin\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.DAL.dll
+C:\Users\dima_kazin\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.DAL.pdb
+C:\Users\Администратор\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.deps.json
+C:\Users\Администратор\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.runtimeconfig.json
+C:\Users\Администратор\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.dll
+C:\Users\Администратор\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.pdb
+C:\Users\Администратор\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.DAL.dll
+C:\Users\Администратор\Desktop\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.DAL.pdb
+C:\Users\Администратор\Desktop\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.dll
+C:\Users\Администратор\Desktop\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.pdb
+C:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.deps.json
+C:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.runtimeconfig.json
+C:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.runtimeconfig.dev.json
+C:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.dll
+C:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.pdb
+C:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.DAL.dll
+C:\GameWebService\GameWebService\bin\Debug\netcoreapp1.1\GameWebService.DAL.pdb
+C:\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.csprojResolveAssemblyReference.cache
+C:\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.AssemblyInfo.cs
+C:\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.dll
+C:\GameWebService\GameWebService\obj\Debug\netcoreapp1.1\GameWebService.pdb

@@ -1,0 +1,33 @@
+﻿@using GameWebService.DAL.Models
+
+@if (User.IsInRole("user"))
+{
+<form asp-area="" asp-controller="Account" asp-action="Logout" method="post" id="logoutForm" class="navbar-right">
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+            <a asp-area="" asp-controller="Manage" asp-action="Index" title="Manage">Приветствую тебя, пользователь</a>
+        </li>
+        <li><a asp-area="" asp-controller="Home" asp-action="Cabinet">Личный кабинет</a></li>
+        <li>
+            <button type="submit" class="btn btn-link navbar-btn navbar-link">Выйти из аккаунта</button>
+        </li>
+    </ul>
+</form>
+}
+else if(User.IsInRole("admin"))
+{
+    <form asp-area="" asp-controller="Account" asp-action="Logout" method="post" id="logoutForm" class="navbar-right">
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a asp-area="" asp-controller="Manage" asp-action="Index" title="Manage">Приветствую тебя, одмен</a>
+            </li>
+            <li><a asp-area="" asp-controller="Home" asp-action="Users">Список пользователей</a></li>
+            <li><a asp-area="" asp-controller="Home" asp-action="CreateUser">Добавить пользователя</a></li>
+            <li>
+                <button type="submit" class="btn btn-link navbar-btn navbar-link">Выйти из аккаунта</button>
+            </li>
+            <li>
+            </li>
+        </ul>
+    </form>
+}
